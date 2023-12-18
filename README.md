@@ -45,10 +45,8 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
-
-### Name:
-### Register Number:
+### Name:NARMADHA SREE S
+### Register Number:23000815
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
